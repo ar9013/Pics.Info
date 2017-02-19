@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pics.info</string>
+    <string name="bitan_des">畫中藍色調變\n化的潭面與天\n空、遠景，相\n互呼應，層次\n豐富，微微蕩\n漾的水面光景\n，充滿魅力。</string>
+    <string name="bitan_title">碧潭</string>
+    <string name="bridge_des">水中的映景光\n色明亮，與藍\n天相對，佔畫\n面的一大部分\n，反映出春天\n一般的綠意與\n生氣。</string>
+    <string name="bridge_title">橋</string>
+    <string name="chengpo_des">寺廟建築鮮艷的紅黑色與天空的湛藍色對比，以及尖翹飛揚的弧形殿脊，表現出寺廟建築的壯麗與喧鬧氣氛。</string>
+    <string name="chengpo_title">廟口</string>
+    <string name="chiayi_des">畫面中活潑的雞群與人物都退避道旁，讓街道筆直地伸向遠方的地平線，並與電線桿會合。</string>
+    <string name="chiayi_park_des">鳳凰樹枝攀緣至池面，\n玲瓏曼妙，彷彿披著金\n黃色的羽毛。帶著紅冠\n的丹頂鶴，又像是一盞\n盞明亮的燈光擎亮在畫\n幅之前，效果極為華麗\n，池中的白鵝悠游其\n，怡然自得。</string>
+    <string name="chiayi_park_title">嘉義公園</string>
+    <string name="chiayi_title">嘉義街外</string>
+    <string name="clean_des">生動的線條，與充滿寓意的空間表現，使整個畫面顯現出獨特的吸引力。</string>
+    <string name="clean_title">清流</string>
+    <string name="family_des">雖然一家人親密地\n湊在一塊兒，但全\n幅畫如構圖上仍有\n些許不安定感，外\n來的威脅與大環境\n的動盪隱伏於其背\n後。</string>
+    <string name="family_title">我的家庭</string>
+    <string name="school_des">畫中的長榮女中二層樓\n校舍建築揉和中西的作\n風，在參天古木的陪襯\n下顯得無限莊嚴。此畫\n以碧綠的前庭為前景，\n一大片的綠地上有幾棵\n樹木，有高有矮，還有\n一條弧形的小徑。長榮\n女中校舍建築物在碧綠\n草地及藍天的烘托下，\n顯得壯觀而寧靜。</string>
+    <string name="school_title">長榮女中學生宿舍</string>
+    <string name="shanghai_des">龐大高聳的圓環雕像立\n於畫面中央，後方擁擠\n的建築物，街道上往來\n的人們，呈現上海碼頭\n的熱鬧與紛亂的景象。</string>
+    <string name="shanghai_title">上海碼頭</string>
+    <string name="summer_street_des">全幅多用墨綠\n暗調子，使得\n樸素的房舍彷\n彿籠罩在金黃\n色調中，典雅\n而輝煌。</string>
+    <string name="summer_street_title">夏日街景</string>
+    <string name="water_pool_des">一對佇立於農舍水塘前\n的父子，小孩拉著父親\n的手，父子二人背對著\n畫面，望向水塘的對岸\n。水塘中湛藍的水色朦\n朧地映現著綠樹與屋。</string>
+    <string name="water_pool_title">池畔</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pics.info</string>
+
+    <string name="school_title">长荣女中学生宿舍</string>
+    <string name="school_des">画中的长荣女中二层楼\n校舍建筑揉和中西的作\n风，在参天古木的陪衬\n下显得无限庄严。此画\n以碧绿的前庭为前景，\n一大片的绿地上有几棵\n树木，有高有矮，还有\n一条弧形的小径。长荣\n女中校舍建筑物在碧绿\n草地及蓝天的烘托下，\n显得壮观而宁静。</string>
+
+    <string name="water_pool_title">池畔</string>
+    <string name="water_pool_des">一对伫立于农舍水塘前\n的父子，小孩拉着父亲\n的手，父子二人背对着\n画面，望向水塘的对岸\n。水塘中湛蓝的水色朦\n胧地映现着绿树与屋。</string>
+
+    <string name="chiayi_park_title">嘉义公园</string>
+    <string name="chiayi_park_des">凤凰树枝攀缘至池面，\n玲珑曼妙，仿佛披着金\n黄色的羽毛。带着红冠\n的丹顶鹤，又像是一盏\n盏明亮的灯光擎亮在画\n幅之前，效果极为华丽\n，池中的白鹅悠游其\n，怡然自得。</string>
+
+    <string name="shanghai_title">上海码头</string>
+    <string name="shanghai_des">庞大高耸的圆环雕像立\n于画面中央，后方拥挤\n的建筑物，街道上往来\n的人们，呈现上海码头\n的热闹与纷乱的景象。</string>
+
+    <string name="family_title">我的家庭</string>
+    <string name="family_des">虽然一家人亲密地\n凑在一块儿，但全\n幅画如构图上仍有\n些许不安定感，外\n来的威胁与大环境\n的动荡隐伏于其背\n后。</string>
+
+    <string name="bridge_title">桥</string>
+    <string name="bridge_des">水中的映景光\n色明亮，与蓝\n天相对，占画\n面的一大部分\n，反映出春天\n一般的绿意与\n生气。</string>
+
+    <string name="summer_street_title">夏日街景</string>
+    <string name="summer_street_des">全幅多用墨绿\n暗调子，使得\n朴素的房舍仿\n佛笼罩在金黄\n色调中，典雅\n而辉煌。</string>
+
+    <string name="chengpo_title">庙口</string>
+    <string name="chengpo_des">寺庙建筑鲜艳的红黑色与天空的湛蓝色对比，以及尖翘飞扬的弧形殿脊，表现出寺庙建筑的壮丽与喧闹气氛。</string>
+
+    <string name="clean_title">清流</string>
+    <string name="clean_des">生动的线条，与充满寓意的空间表现，使整个画面显现出独特的吸引力</string>
+
+    <string name="chiayi_title">嘉义街外</string>
+    <string name="chiayi_des">画面中活泼的鸡群与人物都退避道旁，让街道笔直地伸向远方的地平线，并与电线杆会合。</string>
+
+    <string name="bitan_title">碧潭</string>
+    <string name="bitan_des">画中蓝色调变\n化的潭面与天\n空、远景，相\n互呼应，层次\n丰富，微微荡\n漾的水面光景\n，充满魅力。</string>
+
+
+</resources>
