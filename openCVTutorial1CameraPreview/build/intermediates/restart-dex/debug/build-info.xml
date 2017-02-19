@@ -5,34 +5,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="27694114126485"
+    timestamp="1087327868286"
     token="-7075010948342715920"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="366" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="42" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-        type="DEX" />
-
     <build
-        timestamp="27511876376213"
+        timestamp="902206009962"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/build/outputs/apk/openCVTutorial1CameraPreview-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="1068209849971"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="1087327868286"
+        verifier="COLD_SWAP_REQUESTED" />
     <build
         timestamp="27694114126485"
         verifier="COLD_SWAP_REQUESTED" >

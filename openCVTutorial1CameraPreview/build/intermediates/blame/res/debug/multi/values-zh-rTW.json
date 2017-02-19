@@ -11,14 +11,7 @@
                     "endOffset": 97
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 46,
-                        "endOffset": 97
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 190
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 1675,
-                        "endColumn": 92,
-                        "endOffset": 1763
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 233
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 1632,
-                        "endColumn": 42,
-                        "endOffset": 1670
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 324
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1016,
-                        "endColumn": 90,
-                        "endOffset": 1102
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
@@ -87,14 +59,7 @@
                     "endOffset": 367
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 973,
-                        "endColumn": 42,
-                        "endOffset": 1011
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
@@ -102,8 +67,8 @@
                     "startLine": 7,
                     "startColumn": 4,
                     "startOffset": 372,
-                    "endColumn": 88,
-                    "endOffset": 456
+                    "endColumn": 104,
+                    "endOffset": 472
                 },
                 "from": {
                     "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
@@ -111,8 +76,8 @@
                         "startLine": 26,
                         "startColumn": 4,
                         "startOffset": 1298,
-                        "endColumn": 88,
-                        "endOffset": 1382
+                        "endColumn": 104,
+                        "endOffset": 1398
                     }
                 }
             },
@@ -120,323 +85,204 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 461,
+                    "startOffset": 477,
                     "endColumn": 44,
-                    "endOffset": 501
+                    "endOffset": 517
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1253,
-                        "endColumn": 44,
-                        "endOffset": 1293
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 506,
+                    "startOffset": 522,
                     "endColumn": 79,
-                    "endOffset": 581
+                    "endOffset": 597
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1549,
-                        "endColumn": 79,
-                        "endOffset": 1624
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 586,
+                    "startOffset": 602,
                     "endColumn": 133,
-                    "endOffset": 715
+                    "endOffset": 731
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 540,
-                        "endColumn": 133,
-                        "endOffset": 669
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 720,
+                    "startOffset": 736,
                     "endColumn": 50,
-                    "endOffset": 766
+                    "endOffset": 782
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 489,
-                        "endColumn": 50,
-                        "endOffset": 535
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 771,
+                    "startOffset": 787,
                     "endColumn": 45,
-                    "endOffset": 812
+                    "endOffset": 828
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 1503,
-                        "endColumn": 45,
-                        "endOffset": 1544
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 817,
+                    "startOffset": 833,
                     "endColumn": 70,
-                    "endOffset": 883
+                    "endOffset": 899
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1431,
-                        "endColumn": 70,
-                        "endOffset": 1497
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 888,
+                    "startOffset": 904,
                     "endColumn": 42,
-                    "endOffset": 926
+                    "endOffset": 942
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1388,
-                        "endColumn": 42,
-                        "endOffset": 1426
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 931,
+                    "startOffset": 947,
                     "endColumn": 101,
-                    "endOffset": 1028
+                    "endOffset": 1044
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 870,
-                        "endColumn": 101,
-                        "endOffset": 967
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1033,
+                    "startOffset": 1049,
                     "endColumn": 45,
-                    "endOffset": 1074
+                    "endOffset": 1090
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 824,
-                        "endColumn": 45,
-                        "endOffset": 865
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1079,
+                    "startOffset": 1095,
                     "endColumn": 167,
-                    "endOffset": 1242
+                    "endOffset": 1258
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 157,
-                        "endColumn": 167,
-                        "endOffset": 320
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1247,
+                    "startOffset": 1263,
                     "endColumn": 49,
-                    "endOffset": 1292
+                    "endOffset": 1308
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 107,
-                        "endColumn": 49,
-                        "endOffset": 152
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1297,
+                    "startOffset": 1313,
                     "endColumn": 99,
-                    "endOffset": 1392
+                    "endOffset": 1408
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 723,
-                        "endColumn": 99,
-                        "endOffset": 818
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1397,
+                    "startOffset": 1413,
                     "endColumn": 47,
-                    "endOffset": 1440
+                    "endOffset": 1456
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 675,
-                        "endColumn": 47,
-                        "endOffset": 718
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1445,
+                    "startOffset": 1461,
                     "endColumn": 90,
-                    "endOffset": 1531
+                    "endOffset": 1547
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1161,
-                        "endColumn": 90,
-                        "endOffset": 1247
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1536,
+                    "startOffset": 1552,
                     "endColumn": 52,
-                    "endOffset": 1584
+                    "endOffset": 1600
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1108,
-                        "endColumn": 52,
-                        "endOffset": 1156
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1589,
+                    "startOffset": 1605,
                     "endColumn": 113,
-                    "endOffset": 1698
+                    "endOffset": 1714
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 374,
-                        "endColumn": 113,
-                        "endOffset": 483
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1703,
+                    "startOffset": 1719,
                     "endColumn": 47,
-                    "endOffset": 1746
+                    "endOffset": 1762
                 },
                 "from": {
-                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 326,
-                        "endColumn": 47,
-                        "endOffset": 369
-                    }
+                    "file": "/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/src/main/res/values-zh-rTW/strings.xml"
                 }
             }
         ]

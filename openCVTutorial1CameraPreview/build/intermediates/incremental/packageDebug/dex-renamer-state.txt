@@ -1,4 +1,4 @@
-#Sun Feb 19 07:40:10 CST 2017
+#Sun Feb 19 09:06:44 CST 2017
 base.0=/home/ar9013/AndroidNativeProjects/Pics.Info/openCVTutorial1CameraPreview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9e8ece8ccb1fe751efd1d5d1d6826f3da1e4d423
 renamed.1=classes2.dex
 renamed.0=classes.dex
